@@ -1,0 +1,13 @@
+h1 {
+    color:aliceblue;
+    font-family: Verdana;
+    font-size: 50px;
+    text-align: center;
+}
+
+body {
+    background-color:darkgray;
+}
+img {
+   border-radius: 50%; 
+}
